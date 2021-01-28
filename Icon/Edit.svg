@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Edit</title>
+    <g id="Icon/Edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,4 L12,6 L5,6 L5,20 L19,20 L19,11 L21,11 L21,20 C21,21.103 20.103,22 19,22 L5,22 C3.897,22 3,21.103 3,20 L3,6 C3,4.898 3.897,4 5,4 L12,4 Z M10.8076,10.3647 L13.6356,13.1927 L10.1006,13.8997 L10.8076,10.3647 Z M18.5861,2.5861 C19.3671,1.8051 20.6331,1.8051 21.4141,2.5861 C22.1951,3.3671 22.1951,4.6331 21.4141,5.4141 L21.4141,5.4141 L15.0501,11.7781 L12.2221,8.9501 Z" id="形状结合" fill="#00BDF2"></path>
+    </g>
+</svg>

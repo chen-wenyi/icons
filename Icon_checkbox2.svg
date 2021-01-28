@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon_checkbox2</title>
+    <g id="corev2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flow-Pricer-General" transform="translate(-20.000000, -231.000000)">
+            <g id="body" transform="translate(13.000000, 127.000000)">
+                <g id="Group" transform="translate(7.000000, 104.000000)">
+                    <g id="Icon/Drag" transform="translate(6.000000, 6.000000) rotate(-360.000000) translate(-6.000000, -6.000000) ">
+                        <rect id="矩形" fill="#00BDF2" x="0" y="0" width="12" height="12" rx="2"></rect>
+                        <path d="M10,1 C10.5522847,1 11,1.44771525 11,2 L11,10 C11,10.5522847 10.5522847,11 10,11 L2,11 C1.44771525,11 1,10.5522847 1,10 L1,2 C1,1.44771525 1.44771525,1 2,1 L10,1 Z M8.80851064,3 L5.68085106,7 L3.89361702,5.71428571 L3,6.85714286 L5.9787234,9 L10,3.85714286 L8.80851064,3 Z" id="形状结合" fill="#161A1D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
