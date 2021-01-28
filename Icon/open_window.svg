@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Icon/Open Window</title>
-    <g id="Icon/Open-Window" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M18.707,12.293 L23.414,17 L18.707,21.707 L17.293,20.293 L19.586,18 L15,18 C12.794,18 11,19.794 11,22 L11,22 L11,24 L9,24 L9,22 C9,18.691 11.691,16 15,16 L15,16 L19.586,16 L17.293,13.707 L18.707,12.293 Z M20,0 C21.103,0 22,0.897 22,2 L22,2 L22,11 L19.999,11 L20,6 L2,6 L2,18 L7,18 L7,20 L2,20 C0.897,20 0,19.103 0,18 L0,18 L0,2 C0,0.897 0.897,0 2,0 L2,0 Z M5,2 L2,2 L2,4 L5,4 L5,2 Z M20,2 L12,2 L12,4 L20,4 L20,2 Z M10,2 L7,2 L7,4 L10,4 L10,2 Z" id="形状结合" fill="#A7B3BE"></path>
-    </g>
-</svg>

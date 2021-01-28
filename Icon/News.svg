@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Icon/News</title>
-    <g id="Icon/News" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M22,18 C22,20.199 20.199,22 18,22 L6,22 C3.8,22 2,20.199 2,18 L2,6 C2,3.799 3.8,2 6,2 L18,2 C20.199,2 22,3.799 22,6 L22,18 Z M17.264,18.5 L17.264,5.5 L14.702,5.5 L14.702,10.996 C14.702,11.721 14.739,13.355 14.739,13.838 C14.573,13.504 14.145,12.854 13.829,12.371 L9.224,5.5 L6.735,5.5 L6.735,18.5 L9.297,18.5 L9.297,12.779 C9.297,12.054 9.26,10.422 9.26,9.939 C9.427,10.273 9.854,10.921 10.17,11.406 L14.942,18.5 L17.264,18.5 Z" id="形状" fill="#98A6B3"></path>
-    </g>
-</svg>

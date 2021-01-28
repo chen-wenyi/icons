@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Icon/Filter</title>
-    <g id="Icon/Filter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M20,5 L20,7 C20,7.256 19.902,7.512 19.707,7.707 L19.707,7.707 L14,13.414 L14,19 C14,19.265 13.894,19.52 13.707,19.707 L13.707,19.707 L11.707,21.707 C11.516,21.898 11.26,22 11,22 C10.871,22 10.741,21.975 10.617,21.924 C10.244,21.769 10,21.404 10,21 L10,21 L10,13.414 L4.293,7.707 C4.098,7.512 4,7.256 4,7 L4,7 L4,5 L20,5 Z M18,2 C19.103,2 20,2.898 20,4 L20,4 L4,4 C4,2.898 4.897,2 6,2 L6,2 Z" id="形状结合" fill="#00BDF2"></path>
-    </g>
-</svg>
