@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Chat</title>
+    <g id="Icon/Chat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22.5,9 C23.327,9 24,9.673 24,10.5 L24,17.5 C24,18.327 23.327,19 22.5,19 L21,19 L21,23 L15.667,19 L12.5,19 C11.673,19 11,18.327 11,17.5 L11,10.5 C11,9.673 11.673,9 12.5,9 L22.5,9 Z M22,11 L13,11 L13,17 L16.333,17 L19,19 L19,17 L22,17 L22,11 Z M14.5,1 C15.327,1 16,1.673 16,2.5 L16,6.998 L14,6.998 L14,3 L2,3 L2,13 L5,13 L5,15 L7.667,13 L9,13 L9,15 L8.333,15 L3,19 L3,15 L1.5,15 C0.673,15 0,14.327 0,13.5 L0,2.5 C0,1.673 0.673,1 1.5,1 L14.5,1 Z" id="形状结合" fill="#98A6B3"></path>
+    </g>
+</svg>
