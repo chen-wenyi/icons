@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Refresh</title>
+    <g id="Icon/Refresh" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Add-Copy" transform="translate(2.000000, 1.000000)" fill="#00BDF2">
+            <path d="M15.74925,11.4885 L15.74925,11.847 C15.74925,15.05775 13.65375,17.19375 10.49925,17.19375 C7.34625,17.19375 5.25,15.05775 5.25,11.847 C5.25,8.63475 7.34625,6.4995 10.49925,6.4995 L10.49925,9.31575 L16.33575,5.2905 L10.49925,2.25 L10.49925,4.97175 C6.83025,4.97175 3.75,8.109 3.75,11.847 C3.75,15.58425 6.83025,18.7215 10.49925,18.7215 C14.1705,18.7215 17.25,15.58425 17.25,11.847 L17.25,11.4645 L15.74925,11.4885 Z" id="refresh"></path>
+        </g>
+    </g>
+</svg>
