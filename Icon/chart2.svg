@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
     <title>Icon/chart2</title>
+    <desc>Created with Sketch.</desc>
     <g id="Icon/chart2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" transform="translate(4.400000, 4.000000)" fill="#00BDF2" fill-rule="nonzero">
-            <path d="M1.32360279,15.1519461 C1.32360279,15.5157265 1.02870053,15.8106287 0.664920153,15.8106287 C0.301139779,15.8106287 0.00623751871,15.5157265 0.00623751871,15.1519461 L0.00623751871,0.664121763 C0.00623751871,0.300341389 0.301139779,0.00543912799 0.664920153,0.00543912799 C1.02870053,0.00543912799 1.32360279,0.300341389 1.32360279,0.664121763 L1.32360279,15.1503493 L1.32360279,15.1519461 Z M0.664920153,15.8098303 C0.301139779,15.8098303 0.00623751871,15.5149281 0.00623751871,15.1511477 C0.00623751871,14.7873673 0.301139779,14.4924651 0.664920153,14.4924651 L15.3156188,14.4924651 C15.6793991,14.4924651 15.9743014,14.7873673 15.9743014,15.1511477 C15.9743014,15.5149281 15.6793991,15.8098303 15.3156188,15.8098303 L0.664920153,15.8098303 Z" id="Shape"></path>
+        <g id="Group" transform="translate(2.000000, 1.000000)" fill="#00BDF2" fill-rule="nonzero">
+            <path d="M1.3325,20.1248232 C1.3325,20.60817 0.944666663,21 0.466249999,21 C-0.0121666648,21 -0.4,20.60817 -0.4,20.1248232 L-0.4,0.875176804 C-0.4,0.391830002 -0.0121666648,0 0.466249999,0 C0.944666663,0 1.3325,0.391830002 1.3325,0.875176804 L1.3325,20.1227016 L1.3325,20.1248232 Z M0.466249999,20.9989392 C-0.0121666648,20.9989392 -0.4,20.6071092 -0.4,20.1237624 C-0.4,19.6404156 -0.0121666648,19.2485856 0.466249999,19.2485856 L19.73375,19.2485856 C20.2121667,19.2485856 20.6,19.6404156 20.6,20.1237624 C20.6,20.6071092 20.2121667,20.9989392 19.73375,20.9989392 L0.466249999,20.9989392 Z" id="Shape"></path>
         </g>
-        <line x1="7" y1="17.106227" x2="17.3038644" y2="7" id="Line-2" stroke="#00BDF2" stroke-linecap="round" stroke-linejoin="round"></line>
-        <circle id="Oval" fill="#00BDF2" cx="8.75" cy="12.75" r="1"></circle>
-        <circle id="Oval-Copy" fill="#00BDF2" cx="13.75" cy="12.75" r="1"></circle>
-        <circle id="Oval-Copy-11" fill="#00BDF2" cx="9.75" cy="16.75" r="1"></circle>
-        <circle id="Oval-Copy-12" fill="#00BDF2" cx="11.75" cy="14.75" r="1"></circle>
-        <circle id="Oval-Copy-10" fill="#00BDF2" cx="9.75" cy="8.75" r="1"></circle>
-        <circle id="Oval-Copy-3" fill="#00BDF2" cx="10.75" cy="10.75" r="1"></circle>
-        <circle id="Oval-Copy-4" fill="#00BDF2" cx="6.75" cy="14.75" r="1"></circle>
-        <circle id="Oval-Copy-9" fill="#00BDF2" cx="14.75" cy="14.75" r="1"></circle>
-        <circle id="Oval-Copy-15" fill="#00BDF2" cx="12.75" cy="16.75" r="1"></circle>
-        <circle id="Oval-Copy-5" fill="#00BDF2" cx="17.75" cy="10.75" r="1"></circle>
-        <circle id="Oval-Copy-14" fill="#00BDF2" cx="15.75" cy="10.75" r="1"></circle>
-        <circle id="Oval-Copy-16" fill="#00BDF2" cx="14.75" cy="6.75" r="1"></circle>
-        <circle id="Oval-Copy-6" fill="#00BDF2" cx="12.75" cy="9.75" r="1"></circle>
-        <circle id="Oval-Copy-8" fill="#00BDF2" cx="12.75" cy="6.75" r="1"></circle>
+        <line x1="5" y1="19" x2="19" y2="5" id="Line-2" stroke="#00BDF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <circle id="Oval" fill="#00BDF2" cx="9" cy="13" r="1"></circle>
+        <circle id="Oval-Copy" fill="#00BDF2" cx="11" cy="16" r="1"></circle>
+        <circle id="Oval-Copy-11" fill="#00BDF2" cx="10" cy="18" r="1"></circle>
+        <circle id="Oval-Copy-12" fill="#00BDF2" cx="6" cy="14" r="1"></circle>
+        <circle id="Oval-Copy-10" fill="#00BDF2" cx="9" cy="10" r="1"></circle>
+        <circle id="Oval-Copy-17" fill="#00BDF2" cx="13" cy="12" r="1"></circle>
+        <circle id="Oval-Copy-9" fill="#00BDF2" cx="14" cy="14" r="1"></circle>
+        <circle id="Oval-Copy-15" fill="#00BDF2" cx="13" cy="17" r="1"></circle>
+        <circle id="Oval-Copy-14" fill="#00BDF2" cx="17" cy="13" r="1"></circle>
+        <circle id="Oval-Copy-13" fill="#00BDF2" cx="18" cy="10" r="1"></circle>
+        <circle id="Oval-Copy-16" fill="#00BDF2" cx="16" cy="8" r="1"></circle>
+        <circle id="Oval-Copy-6" fill="#00BDF2" cx="12" cy="9" r="1"></circle>
+        <circle id="Oval-Copy-8" fill="#00BDF2" cx="13" cy="5" r="1"></circle>
     </g>
 </svg>
